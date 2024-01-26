@@ -128,7 +128,9 @@ button{
     line-height: 19px; /* 18.96px */  
 }
 .watch_btn{
-
+    margin-top: 5px;
+    vertical-align: top;
+    margin-left: 28px;
 }
 .watch_btn_play{
     width: 57px;
@@ -150,13 +152,39 @@ button{
     line-height:19px; /* 18.96px */
     display: inline-block;
 }
+.rating{
+
+    margin-top: 70px;
+
+}
+.rating_range{
+    color: #2F2F2F;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 25.164px */
+    display: inline-block;
+    margin-top: 11px;
+}
+.rating_review{
+    color: #909090;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+}
+
 .info_right{
     width: 750px;
     display: inline-block;
     vertical-align: top;
+    margin-top: 37px
 }
 
 .info_img{
     width: 750px;
     height: 712px;
 }
+ 
